@@ -1,3 +1,5 @@
 __pycache__/
 *.log
 *.zip
+test_backup/
+test_source/
